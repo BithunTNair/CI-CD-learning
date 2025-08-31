@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     {add(3,4)}
-    <h1>Hello</h1>
+    <h1>Helloo</h1>
     </>
   )
 }
